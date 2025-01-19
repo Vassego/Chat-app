@@ -7,7 +7,7 @@ This is a real-time chat application built using the MERN stack (MongoDB, Expres
 Clone the repository:
 
 1. `git clone https://github.com/Vassego/Chat-app.git`
-2. `cd mern-chat-app`
+2. `cd Chat-app`
 3. `npm start`
 4. Open the app in your browser at `localhost:5000`.
 
