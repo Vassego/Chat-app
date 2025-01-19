@@ -1,6 +1,7 @@
 # Chat-app
 
 This is a real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js) and Socket.IO.
+#Click here for demo- https://chat-app-cr4c.onrender.com
 
 ## How to Run the Application
 
